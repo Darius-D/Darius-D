@@ -7,7 +7,7 @@ My Name is Darius and I am an aspiring ASP.Net Full Stack Developer. I am curren
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darius-D&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darius-D&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darius-D&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Darius-D/Darius-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
