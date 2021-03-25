@@ -5,7 +5,7 @@ My Name is Darius and I am an aspiring ASP.Net Full Stack Developer. I am curren
 
 <p align="center"> You can connect with me Via <a href="https://www.linkedin.com/in/darius-dubose/">LinkedIn</a>, <a href="mailto:darius.dubose1@gmail.com">Email</a> or check out my <a href="http://www.dariusdubose.com" target="_blank">Personal Webpage</a> </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darius-D)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darius-D&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darius-D&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
