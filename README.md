@@ -1,7 +1,7 @@
 
 # <p align ="center"> 💥 Welcome! 💥 </p> 
 
-My Name is Darius and I am an aspiring ASP.Net Full Stack Developer. I am currently working on a project called Insectic to help visualize "unplanned work". I decided to work on this project to increase my skills in all my known languages such as c#, SQL, HTML, CSS. The project was inspired by the Phoneix Project by Gene Kim, Kevin Behr, and George Spafford. Feel free to <a href="https://github.com/Darius-D/Insectic">Check out my progress here </a>
+My Name is Darius and I am an  ASP.Net Full Stack Developer. I am currently working on a project called Insectic to help visualize "unplanned work". I decided to work on this project to increase my skills in all my known languages such as C#, SQL, HTML and CSS. The project was inspired by the Phoneix Project by Gene Kim, Kevin Behr, and George Spafford. Feel free to <a href="https://github.com/Darius-D/Insectic">Check out my progress here </a>
 
 <p align="center"> You can connect with me Via <a href="https://www.linkedin.com/in/darius-dubose/">LinkedIn</a>, <a href="mailto:darius.dubose1@gmail.com">Email</a> or check out my <a href="http://www.dariusdubose.com" target="_blank">Personal Webpage</a> </p>
 
