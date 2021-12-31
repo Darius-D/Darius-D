@@ -1,7 +1,7 @@
 
 # <p align ="center"> 💥 Welcome! 💥 </p> 
 
-My Name is Darius and I am an  ASP.Net Full Stack Developer and SRE at Microsoft. I am proficient in C#, CSS, HTML, JS, and SQL. I am currently working working on application made up of several microservices to develop a better understaning of K8S (kubernetes) utilizing several programing languages and a polyglot storage solution. 
+My Name is Darius and I am an  ASP.Net Full Stack Developer and SRE at Microsoft. I am proficient in C#, CSS, HTML, JS, and SQL. I am currently working on application made up of several microservices to develop a better understaning of K8S (kubernetes) utilizing several programing languages and a polyglot storage solution. 
 
 <p align="center"> You can connect with me Via <a href="https://www.linkedin.com/in/darius-dubose/">LinkedIn</a>, <a href="mailto:darius.dubose1@gmail.com">Email</a> or check out my <a href="http://www.dariusdubose.com" target="_blank">Personal Webpage</a> </p>
 
