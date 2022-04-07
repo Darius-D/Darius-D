@@ -3,7 +3,7 @@
 
 My Name is Darius and I am an  ASP.Net Full Stack Developer and SRE at Microsoft. I am proficient in C#, CSS, HTML, JS, and SQL. I am currently working on an application made up of several microservices to develop a better understaning of K8S (kubernetes) utilizing several programing languages and a polyglot storage solution comprised of MongoDB, Sql server, and Azure Blob storage. Check it out here <a>https://github.com/Darius-D/BeLoudProject_K8s</a>
 
-<p align="center"> You can connect with me Via <a href="https://www.linkedin.com/in/darius-dubose/">LinkedIn</a>
+<p align="center"> Connect with me Via <a href="https://www.linkedin.com/in/darius-dubose/">LinkedIn!</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darius-D&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
